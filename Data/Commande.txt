@@ -1,0 +1,111 @@
+05|X1 mouse button
+06|X2 mouse button
+08|BACKSPACE
+09|TAB
+0C|CLEAR
+0D|ENTER
+10|SHIFT
+11|CTRL
+12|ALT
+13|PAUSE
+14|CAPS LOCK
+1B|ESC
+20|SPACEBAR
+21|PAGE UP
+22|PAGE DOWN
+23|END
+24|HOME
+25|LEFT ARROW
+26|UP ARROW
+27|RIGHT ARROW
+28|DOWN ARROW
+29|SELECT
+2A|PRINT
+2B|EXECUTE
+2C|PRINT SCREEN
+2D|INS
+2E|DEL
+30|0
+31|1
+32|2
+33|3
+34|4
+35|5
+36|6
+37|7
+38|8
+39|9
+41|A
+42|B
+43|C
+44|D
+45|E
+46|F
+47|G
+48|H
+49|I
+4A|J
+4B|K
+4C|L
+4D|M
+4E|N
+4F|O
+50|P
+51|Q
+52|R
+53|S
+54|T
+55|U
+56|V
+57|W
+58|X
+59|Y
+5A|Z
+5B|Left Windows
+5C|Right Windows
+60|Numericpad 0
+61|Numericpad 1
+62|Numericpad 2
+63|Numericpad 3
+64|Numericpad 4
+65|Numericpad 5
+66|Numericpad 6
+67|Numericpad 7
+68|Numericpad 8
+69|Numericpad 9
+6A|Multiply
+6B|Add
+6C|Separator
+6D|Subtract
+6E|Decimal
+6F|Divide
+70|F1
+71|F2
+72|F3
+73|F4
+74|F5
+75|F6
+76|F7
+77|F8
+78|F9
+79|F10
+7A|F11
+7B|F12
+90|NUM LOCK
+91|SCROLL LOCK
+A0|Left SHIFT
+A1|Right SHIFT
+A2|Left CONTROL
+A3|Right CONTROL
+A4|Left MENU
+A5|Right MENU
+BA|;
+BB|=
+BC|,
+BD|-
+BE|.
+BF|/
+C0|`
+DB|[
+DC|\
+DD|]
